@@ -58,6 +58,9 @@ Allow users to post their own property listings, with a limit to encourage paid 
 **Requirements:**
 - Each user can post up to **two free listings**.
 - Posting more than two listings requires a paid upgrade (in-app purchase or subscription).
+- **AI Assistance:** While creating a listing, users can opt to have an AI helper generate a compelling property description based on the details they enter (e.g., size, rooms, location). They can accept, edit, or replace the suggested text before publishing.
+- **Location Details:** Users select a **City** and **Barangay** (neighborhood) from predefined lists when creating a listing, ensuring consistent location data.
+- **Photos:** Users must upload at least **three** property photos. They can reorder images via drag‑and‑drop (mobile & web) to set the primary display order.
 - Listing management (add, edit, delete) is available on both web and mobile.
 
 ---
